@@ -141,16 +141,32 @@ body {
   background: var(--Light-red);
 }
 
+.rate-items .rate-item.reaction .rate-item-text h3 {
+  color: hsl(0, 100%, 67%);
+}
+
 .rate-items .rate-item.memory {
   background: var(--Orangey-yellow);
+}
+
+.rate-items .rate-item.memory .rate-item-text h3 {
+  color: hsl(39, 100%, 56%);
 }
 
 .rate-items .rate-item.verbal {
   background: var(--Green-teal);
 }
 
+.rate-items .rate-item.verbal .rate-item-text h3 {
+  color: hsl(166, 100%, 37%);
+}
+
 .rate-items .rate-item.visual {
   background: var(--Cobalt-blue);
+}
+
+.rate-items .rate-item.visual .rate-item-text h3 {
+  color: hsl(234, 85%, 45%);
 }
 
 h3 span {
