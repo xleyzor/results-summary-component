@@ -10,9 +10,9 @@
 
 <ul>
     <li>
-    Solution URL: <a href="[#](https://www.frontendmentor.io/solutions/results-summary-component-x6TWJrjDtL)">Click Here!</a>
+    Solution URL: <a href="https://www.frontendmentor.io/solutions/results-summary-component-x6TWJrjDtL">Click Here!</a>
     </li>
     <li>
-   Live site URL: <a href="[#](https://results-summary-component-navy.vercel.app/)">Click Here!</a>
+   Live site URL: <a href="https://results-summary-component-navy.vercel.app/">Click Here!</a>
     </li>
 </ul>
